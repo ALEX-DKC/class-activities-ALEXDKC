@@ -6,7 +6,7 @@ Hello world!
 ### W2
 1£¬Because color values use decimals between 0.0 and 1.0.
 2£¬Because it counts how many times the ball bounces: 1, 2, 3
-3£¬I add a ";"because it is the end of the sentence
+3£¬I add a ";"because it is the end of the sentence.
 
 
 ## Open-Source Assets
